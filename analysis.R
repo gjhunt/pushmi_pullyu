@@ -1,2 +1,2 @@
-x <- runif(10)
+x <- runif(20)
 hist(x)
